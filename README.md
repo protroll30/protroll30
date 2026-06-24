@@ -1,5 +1,5 @@
 # 👋 This profile has moved
 
-My GitHub is now [github.com/yournewhandle](https://github.com/yournewhandle).
+My GitHub is now [github.com/pravit-amp](https://github.com/pravit-amp).
 
 Please update your links. Thanks!
